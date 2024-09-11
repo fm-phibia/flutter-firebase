@@ -30,3 +30,12 @@ firebase login
 ```
 flutterfire configure
 ```
+
+3. 使用する Firebase プラグインの追加
+
+```
+flutter pub add PLUGIN_NAME
+```
+
+PLUGIN_NAME は以下から確認可能
+https://firebase.google.com/docs/flutter/setup?hl=ja&platform=ios#available-plugins
