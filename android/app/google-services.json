@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "841859634198",
+    "project_id": "flutter-fb-trial",
+    "storage_bucket": "flutter-fb-trial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841859634198:android:1d22d17a9bb36cfbbf5137",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATlrSF6-_7udr6ZVWJq2snk7kyMpmqJbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
